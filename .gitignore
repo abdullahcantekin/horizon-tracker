@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Büyük Veri ve Çıktılar (Kara Kutu & Anomali Resimleri)
+exports/anomalies/*.jpg
+exports/*.db
+exports/*.csv
+data/*.mp4
+
+# VS Code / IDE
+.vscode/
+.idea/
